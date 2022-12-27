@@ -1,16 +1,8 @@
 # CLIPPY
 
-クリップ動画共有アプリです。
+クリップ動画共有アプリです。DiscordなどのSNSで共有できる動画ファイルの大きさを無制限にしたいために作成しました。
+ユーザー登録後、動画ファイルのアップロード、視聴、共有URLの作成ができます。
 
-## Getting Started
+## 履歴
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2022/12/21 Web版で公開。動作確認環境はWindowsかつChrome
