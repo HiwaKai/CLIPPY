@@ -1,6 +1,6 @@
-# untitled
+# CLIPPY
 
-A new Flutter project.
+クリップ動画共有アプリです。
 
 ## Getting Started
 
